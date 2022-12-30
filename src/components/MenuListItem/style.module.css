@@ -1,0 +1,22 @@
+.container{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inicio{
+    background-color: #e5c08a;
+}
+.hover{
+    background-color: #0fc015;
+}
+.nothover{
+    background-color: #ea8848;
+}
+.inicio,.nothover,.hover{
+    cursor: pointer;
+    padding: 30px;
+    border: 1px solid #555;
+    border-radius: 40px;
+}

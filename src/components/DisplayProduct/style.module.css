@@ -1,0 +1,14 @@
+.container{
+    height: 250px;
+    width: 100%;
+    /*border: 3px solid gray;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.display{
+    border: 1px solid #994106;
+    background-color: #f0dcbe;
+    padding: 20px;
+    border-radius: 4px;
+}
